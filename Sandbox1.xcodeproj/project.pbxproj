@@ -87,6 +87,7 @@
 				F0E115B517442DD900A50D6A /* Frameworks */,
 				F0E115B417442DD900A50D6A /* Products */,
 			);
+			indentWidth = 3;
 			sourceTree = "<group>";
 		};
 		F0E115B417442DD900A50D6A /* Products */ = {
